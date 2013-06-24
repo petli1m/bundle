@@ -1,0 +1,51 @@
+[submodule "ack"]
+	path = ack
+	url = https://github.com/mileszs/ack.vim.git
+[submodule "vim-git"]
+	path = vim-git
+	url = https://github.com/tpope/vim-git.git
+[submodule "jedi-vim"]
+	path = jedi-vim
+	url = https://github.com/davidhalter/jedi-vim.git
+[submodule "jshint.vim"]
+	path = jshint.vim
+	url = git://github.com/walm/jshint.vim.git
+[submodule "ack.vim"]
+	path = ack.vim
+	url = https://github.com/mileszs/ack.vim.git
+[submodule "minibufexpl.vim"]
+	path = minibufexpl.vim
+	url = https://github.com/fholgado/minibufexpl.vim.git
+[submodule "python-syntax"]
+	path = python-syntax
+	url = https://github.com/hdima/python-syntax.git
+[submodule "supertab"]
+	path = supertab
+	url = https://github.com/ervandew/supertab.git
+[submodule "vim-surround"]
+	path = vim-surround
+	url = https://github.com/tpope/vim-surround.git
+[submodule "syntastic"]
+	path = syntastic
+	url = https://github.com/scrooloose/syntastic.git
+[submodule "vim-colors-solarized"]
+	path = vim-colors-solarized
+	url = git://github.com/altercation/vim-colors-solarized.git
+[submodule "vim-fugitive"]
+	path = vim-fugitive
+	url = git://github.com/tpope/vim-fugitive.git
+[submodule "vim-matchit"]
+	path = vim-matchit
+	url = https://github.com/tsaleh/vim-matchit.git
+[submodule "vim-pathogen"]
+	path = vim-pathogen
+	url = https://github.com/tpope/vim-pathogen.git
+[submodule "vim-repeat"]
+	path = vim-repeat
+	url = https://github.com/tpope/vim-repeat.git
+[submodule "vim-unimpaired"]
+	path = vim-unimpaired
+	url = https://github.com/tpope/vim-unimpaired.git
+[submodule "snipmate.vim"]
+	path = snipmate.vim
+	url = https://github.com/msanders/snipmate.vim.git
