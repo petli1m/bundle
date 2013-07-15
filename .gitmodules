@@ -64,3 +64,6 @@
 [submodule "mru.vim"]
 	path = mru.vim
 	url = https://github.com/vim-scripts/mru.vim.git
+[submodule "vim-virtualenv"]
+	path = vim-virtualenv
+	url = https://github.com/jmcantrell/vim-virtualenv.git
