@@ -1,12 +1,6 @@
-[submodule "ack"]
-	path = ack
-	url = https://github.com/mileszs/ack.vim.git
 [submodule "vim-git"]
 	path = vim-git
 	url = https://github.com/tpope/vim-git.git
-[submodule "jedi-vim"]
-	path = jedi-vim
-	url = https://github.com/davidhalter/jedi-vim.git
 [submodule "jshint.vim"]
 	path = jshint.vim
 	url = git://github.com/walm/jshint.vim.git
@@ -46,9 +40,6 @@
 [submodule "vim-unimpaired"]
 	path = vim-unimpaired
 	url = https://github.com/tpope/vim-unimpaired.git
-[submodule "snipmate.vim"]
-	path = snipmate.vim
-	url = https://github.com/msanders/snipmate.vim.git
 [submodule "vim-python-pep8-indent"]
 	path = vim-python-pep8-indent
 	url = https://github.com/hynek/vim-python-pep8-indent.git
@@ -58,12 +49,18 @@
 [submodule "vim-addon-mw-utils"]
 	path = vim-addon-mw-utils
 	url = https://github.com/MarcWeber/vim-addon-mw-utils.git
-[submodule "vim-snipmate"]
-	path = vim-snipmate
-	url = https://github.com/garbas/vim-snipmate.git
 [submodule "mru.vim"]
 	path = mru.vim
 	url = https://github.com/vim-scripts/mru.vim.git
 [submodule "vim-virtualenv"]
 	path = vim-virtualenv
 	url = https://github.com/jmcantrell/vim-virtualenv.git
+[submodule "bufexplorer"]
+	path = bufexplorer
+	url = https://github.com/corntrace/bufexplorer.git
+[submodule "vim-misc"]
+	path = vim-misc
+	url = https://github.com/xolox/vim-misc.git
+[submodule "vim-python-ftplugin"]
+	path = vim-python-ftplugin
+	url = https://github.com/tarmack/vim-python-ftplugin.git
