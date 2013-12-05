@@ -64,3 +64,9 @@
 [submodule "vim-python-ftplugin"]
 	path = vim-python-ftplugin
 	url = https://github.com/tarmack/vim-python-ftplugin.git
+[submodule "gundo.vim"]
+	path = gundo.vim
+	url = https://github.com/sjl/gundo.vim.git
+[submodule "YouCompleteMe"]
+	path = YouCompleteMe
+	url = https://github.com/Valloric/YouCompleteMe.git
